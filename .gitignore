@@ -1,0 +1,22 @@
+# Compiled Java class files
+out/
+bin/
+*.class
+
+# Test data generated during automated tests
+test-data/
+
+# Build artifacts and lists
+sources.txt
+
+# IDE configuration files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
